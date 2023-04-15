@@ -140,7 +140,7 @@ class ViewController: UIViewController, UIPickerViewDataSource, UIPickerViewDele
         min = 0
         hr = 0
         siteLink.alpha = 0
-        setLabels1()
+        setLabels3()
     }
     override func motionBegan(_ motion: UIEvent.EventSubtype, with event: UIEvent?) {
         image.alpha = 0
