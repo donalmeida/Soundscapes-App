@@ -1,0 +1,27 @@
+{
+    "Sounds3": [
+        {   SoundName: "Waterfall",
+            SoundImage: "https://github.com/JemilioJ/Soundscapes-App/blob/main/waterfall.jpg?raw=true",
+            webAddress: ""
+        },
+        {   SoundName: "Rain",
+            SoundImage: "https://github.com/JemilioJ/Soundscapes-App/blob/main/rain.jpg?raw=true",
+            webAddress: ""},
+        {   SoundName: "Forest",
+            SoundImage: "https://github.com/JemilioJ/Soundscapes-App/blob/main/forest.jpg?raw=true",
+            webAddress: ""},
+        {   SoundName: "Beats01",
+            SoundImage: "https://github.com/JemilioJ/Soundscapes-App/blob/main/beats01.jpg?raw=true",
+            webAddress: ""},
+        {   SoundName: "Beats02",
+            SoundImage: "https://github.com/JemilioJ/Soundscapes-App/blob/main/beats02.jpg?raw=true",
+            webAddress: ""},
+        {   SoundName: "Shepard Tone",
+            SoundImage: "https://github.com/JemilioJ/Soundscapes-App/blob/main/shepard tone.jpg?raw=true",
+            webAddress: "https://en.wikipedia.org/wiki/Shepard_tone"},
+        {   SoundName: "Jungle",
+            SoundImage: "https://github.com/JemilioJ/Soundscapes-App/blob/main/jungle.jpg?raw=true",
+            webAddress: "https://en.wikipedia.org/wiki/Peninsular_Malaysian_rain_forests"}
+    ]
+    Status: "OK"
+}
